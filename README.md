@@ -4,7 +4,7 @@ A fine-tuned DistilBERT model that classifies news articles as FAKE or REAL.
 Deployed as an interactive Gradio app on HuggingFace Spaces.
 
 ## Live Demo
-👉 [Try it here](https://huggingface.co/spaces/RazakAIhub/distilbert-fake-news-classifier)
+👉 [Try it here](https://huggingface.co/spaces/RazakAIhub/fake-news-detector)
 
 ## Model
 👉 [RazakAIhub/distilbert-fake-news-classifier](https://huggingface.co/RazakAIhub/distilbert-fake-news-classifier)
